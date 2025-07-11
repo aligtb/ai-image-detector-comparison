@@ -36,7 +36,7 @@ ai-image-detector-comparison/
 
 ## ✅ Tasks Overview (suggestion => move to Github Project-board)
 
-| Task | Owner | Status |
+| Task | Assignees | Status |
 |------|-------|--------|
 | Set up dataset folders | Ali | ✅ Done |
 | Preprocessing & resizing | -- | ⏳ In Progress |
@@ -46,6 +46,11 @@ ai-image-detector-comparison/
 | Slide design | -- | 🔜 To Do |
 
 See [GitHub Project Board](../../projects) for full progress tracking.
+
+### 🧠 Optional Tips
+- Assign teammates to each issue
+- Use labels like data, model, report, presentation
+- Break big issues into smaller sub-issues if needed
 
 ---
 
