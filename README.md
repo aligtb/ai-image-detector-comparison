@@ -36,7 +36,7 @@ ai-image-detector-comparison/
 
 ## ✅ Tasks Overview (suggestion => move to Github Project-board)
 
-| Task | Owner | Status |
+| Task | Assignees | Status |
 |------|-------|--------|
 | Set up dataset folders | Ali | ✅ Done |
 | Preprocessing & resizing | -- | ⏳ In Progress |
