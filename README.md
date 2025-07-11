@@ -47,6 +47,11 @@ ai-image-detector-comparison/
 
 See [GitHub Project Board](../../projects) for full progress tracking.
 
+### 🧠 Optional Tips
+- Assign teammates to each issue
+- Use labels like data, model, report, presentation
+- Break big issues into smaller sub-issues if needed
+
 ---
 
 ## 📅 Timeline
