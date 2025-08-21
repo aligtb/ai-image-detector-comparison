@@ -4,3 +4,6 @@ dataset/
 models/
 results/
 .venv/
+pml/
+data/raw/
+data/sorted/
