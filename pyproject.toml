@@ -3,7 +3,9 @@ name = "ai-image-detector-comparison"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Ali Gatabi",email = "name@rub.de"},
+    {name = "Kirill Salfetnik",email = "name@rub.de"},
+    {name = "Joshua Hertz-Eichenrode",email = "joshua.hertz-eichenrode@rub.de"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
@@ -18,3 +20,7 @@ dependencies = [
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
+
