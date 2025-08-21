@@ -8,7 +8,7 @@ authors = [
     {name = "Joshua Hertz-Eichenrode",email = "joshua.hertz-eichenrode@rub.de"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.13,<3.14"
 dependencies = [
     "torch (>=2.7.1,<3.0.0)",
     "numpy (>=2.3.2,<3.0.0)",
