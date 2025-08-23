@@ -7,3 +7,5 @@ results/
 pml/
 data/raw/
 data/sorted/
+dataset2/test_data_v2/
+dataset2/train_data/
