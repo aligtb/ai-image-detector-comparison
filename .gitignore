@@ -7,3 +7,8 @@ results/
 pml/
 data/raw/
 data/sorted/
+dataset2/
+notebooks/cifar-10-batches-py/
+notebooks/cifar-100-python/
+notebooks/cifar-10-python.tar.gz
+notebooks/cifar-100-python.tar.gz
